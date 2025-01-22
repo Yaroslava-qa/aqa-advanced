@@ -8,6 +8,5 @@ function handleNum(number, callbackParne, callbackNeParne) {
   }
   const handleEven = (num) => console.log(`${num} - number is even`);
   const handleOdd = (num) => console.log(`${num} - number is odd`);
-  
   handleNum(6, handleEven, handleOdd);
   handleNum(3, handleEven, handleOdd); 
