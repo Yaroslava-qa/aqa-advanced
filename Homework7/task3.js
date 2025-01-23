@@ -28,4 +28,4 @@ function divide(numerator, denominator) {
   } finally {
     console.log('Робота завершена');
   }
-  
+
